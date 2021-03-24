@@ -1,12 +1,16 @@
-# Rocketpool Final Beta Leaderboard
-
-This project contains (unofficial) data for Rocketpool's third beta running on the Pyrmont test net.
+This project contains (unofficial) data for Rocketpool's third beta running on the Goerli/Pyrmont testnets.
 
 [data/leaderboard.json](data/leaderboard.json) and [data/leaderboard.csv](data/leaderboard.csv) contain the latest leaderboards for rewards purposes which count only the top performing validator per node.
 
 [data/all_validators.json](data/all_validators.json) and [data/all_validators.csv](data/all_validators.csv) contain the latest data for all validators participating in the beta.
 
 Coming soon are the scripts and instructions which you can use to generate the data locally.
+
+# Dashboards
+
+https://rpl-beta-3-leaderboard-frl9u.ondigitalocean.app/
+
+https://rp-b3-leaders.vercel.app/
 
 # Methodology
 
