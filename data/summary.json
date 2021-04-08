@@ -1,8 +1,8 @@
 {
-    "script_start": "2021-04-08 10:55:01.343542",
+    "script_start": "2021-04-08 11:55:01.663830",
     "beacon_chain_deposits_csv_md5sum": "0b367bcee90675ad18474fae8f300da9",
     "minipool_txn_csv_md5sum": "0b367bcee90675ad18474fae8f300da9",
-    "slots_processed_this_run": 14874,
-    "last_slot_processed": 1014874,
-    "script_end": "2021-04-08 11:03:57.388194"
+    "slots_processed_this_run": 15174,
+    "last_slot_processed": 1015174,
+    "script_end": "2021-04-08 12:04:15.462632"
 }
